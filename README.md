@@ -17,7 +17,7 @@ Here is
 
 But at the end to run the willowj I tried  to  arrange the YML file and still unsucceul 
 
-May be how to identify the  sample group file and groupcategory definition needs to be edit 
+May be how to identify the  sample group file and groupcategory definition needs to be edited
 
 ##  group category definitoins 
 
