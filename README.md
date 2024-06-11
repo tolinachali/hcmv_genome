@@ -2,9 +2,10 @@
 
 To calculate GDR_value I tried to figure out clinical samples and lab_strain samples from the 405 hcmv GenBank data 
 
-After that I selected 5 clinical samples and 5 lab strain samples to save time rather than  all all of th samples 
+After that I selected 5 clinical samples and 5 lab strain samples to save time rather than  all of the samples 
 
-Next Extract a fasta file which is important for sequence alignment using  python script and do a multiple sequence alignment 
+To the next,  extract a fasta file which is important for sequence alignment using  python script and do a multiple sequence alignment. 
+
 I have added a python code used to extract the fasta file
 
 using MAFFT software which have speed than clustalo
