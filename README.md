@@ -1,14 +1,20 @@
 ## GDR_calc for 10 hcmv_samples
 
-To calculate GDR_value I tried to figure out clinical samples and lab_strain samples from the 405 hcmv GenBak data 
+To calculate GDR_value I tried to figure out clinical samples and lab_strain samples from the 405 hcmv GenBank data 
 
 After that I selected 5 clinical samples and 5 lab strain samples to save time rather than  all all of th samples 
 
-Next Extract a fasta file which is imoortant for sequence alignment using  python script and do a multiple sequence alignment 
+Next Extract a fasta file which is important for sequence alignment using  python script and do a multiple sequence alignment 
+I have added a python code used to extract the fasta file
 
 using MAFFT software which have speed than clustalo
+The command :
+
+###  mafft 10_sample_hcmv.fasta > aligned_hcmv.fasta
 
 Now possible to find a distance matrix which is very important to for GDR_calculation 
+
+Also  I used a python script to find a didtance matrix for the samples 
 
 Here is 
 
