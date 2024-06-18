@@ -17,27 +17,34 @@ Now possible to find a distance matrix which is very important to for GDR_calcul
 
 Also  I used a python script to find a didtance matrix for the samples 
 
-Here is 
+Here is the distance matrix of the 10 samples 
 
-![image](https://github.com/tolinachali/hcmv_genome/assets/130226558/12d00ced-eed1-4961-be52-fb7baf1ce1db)
+![image](https://github.com/tolinachali/hcmv_genome/assets/130226558/048d29c3-b327-4884-86b5-48fcc4174b5c)
 
+I tried to rearrange the yaml file and 
 
-But at the end to run the willowj I tried  to  arrange the YML file and still unsucceul 
-
-May be how to identify the  sample group file and groupcategory definition needs to be edited
+preapare  the  sample group file and groupcategory definition as follows 
 
 ##  group category definitoins 
 
-![image](https://github.com/tolinachali/hcmv_genome/assets/130226558/f59b8427-0400-4b4a-9169-a32d5589e658)
+![image](https://github.com/tolinachali/hcmv_genome/assets/130226558/29823567-120b-4d5d-b3c5-83e9688d4d11)
+
 
 ## Sample group file
 
-
-![image](https://github.com/tolinachali/hcmv_genome/assets/130226558/d72102d7-d601-4e13-8652-c0f5710de860)
-
+![image](https://github.com/tolinachali/hcmv_genome/assets/130226558/44a67b46-2a9a-4d31-b043-090c80f695dd)
 
 
+### The result looks like :
 
+
+![image](https://github.com/tolinachali/hcmv_genome/assets/130226558/f09d6822-2226-44a3-87bb-fa1ccea56391)
+
+
+# Even if I get  GDRCalculationResultsJ When I run the willowj still thtough error like below 
+
+
+![ERRor](https://github.com/tolinachali/hcmv_genome/assets/130226558/154614a0-ad9f-4ba6-a170-8bf7972390be)
 
 
 
