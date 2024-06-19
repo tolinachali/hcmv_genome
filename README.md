@@ -41,7 +41,7 @@ preapare  the  sample group file and groupcategory definition as follows
 ![image](https://github.com/tolinachali/hcmv_genome/assets/130226558/f09d6822-2226-44a3-87bb-fa1ccea56391)
 
 
-# Even if I get  GDRCalculationResultsJ When I run the willowj still thtough error like below 
+# Even if I get  GDRCalculationResultsJ When I run the willowj still through error like below 
 
 
 ![ERRor](https://github.com/tolinachali/hcmv_genome/assets/130226558/154614a0-ad9f-4ba6-a170-8bf7972390be)
